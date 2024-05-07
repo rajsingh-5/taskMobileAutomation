@@ -1,0 +1,330 @@
+2024-May-07 15:29:35.264 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 15:29:35.401 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 15:29:48.407 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 15:30:13.593 [main] INFO  base.BasePage - India is clicked
+2024-May-07 15:30:15.225 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 15:30:16.730 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 15:30:18.171 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 15:39:56.688 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 15:39:56.822 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 15:40:09.691 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 15:40:33.456 [main] INFO  base.BasePage - India is clicked
+2024-May-07 15:40:35.036 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 15:40:36.557 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 15:40:48.942 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:40:50.254 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:40:51.760 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 15:48:18.816 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 15:48:18.950 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 15:48:32.079 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 15:48:55.788 [main] INFO  base.BasePage - India is clicked
+2024-May-07 15:48:57.696 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 15:49:00.007 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 15:49:11.615 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:49:13.896 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:49:15.381 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 15:49:51.311 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 15:49:51.441 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 15:50:05.041 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 15:50:35.737 [main] INFO  base.BasePage - India is clicked
+2024-May-07 15:50:48.175 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 15:50:55.424 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 15:51:06.018 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:51:08.372 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:51:09.868 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 15:51:37.006 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 15:51:37.135 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 15:51:50.015 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 15:52:15.552 [main] INFO  base.BasePage - India is clicked
+2024-May-07 15:52:17.689 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 15:52:20.241 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 15:52:32.869 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:52:35.963 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 15:52:37.447 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:22:59.825 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:22:59.964 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:23:13.618 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:23:37.304 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:23:38.790 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:23:40.372 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:23:51.151 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:23:53.633 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:23:55.048 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:23:56.493 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:23:56.988 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:25:06.451 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:25:06.588 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:25:20.352 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:25:45.338 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:25:47.282 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:25:49.103 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:25:59.652 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:26:02.820 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:26:03.943 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:26:05.968 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:26:06.401 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:26:06.861 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:26:08.373 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:32:42.634 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:32:42.780 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:32:55.547 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:33:19.605 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:33:21.184 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:33:22.773 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:33:33.412 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:33:35.890 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:33:36.778 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:33:37.846 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:33:38.286 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:33:38.703 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:33:40.208 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:38:18.587 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:38:18.736 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:38:31.738 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:38:55.238 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:38:56.802 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:38:58.362 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:39:09.380 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:39:11.794 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:39:12.822 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:39:13.768 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:39:14.254 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:39:14.718 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:39:15.223 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 16:39:16.725 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:41:10.008 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:41:10.141 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:41:23.086 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:41:46.711 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:41:48.526 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:41:50.149 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:42:01.531 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:42:03.922 [main] INFO  base.BasePage - ADD TO CART is clicked
+2024-May-07 16:42:04.936 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:42:05.880 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:42:07.517 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 16:42:08.470 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:42:09.494 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:42:09.967 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 16:42:11.435 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:43:59.463 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:43:59.627 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:44:23.429 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:44:47.084 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:44:48.543 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:44:50.165 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:45:01.596 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 16:45:03.981 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 16:45:04.894 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:45:05.934 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:45:28.334 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 16:45:38.313 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:45:40.649 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:45:54.620 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 16:45:59.425 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 16:55:49.415 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 16:55:49.543 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 16:56:02.595 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 16:56:25.949 [main] INFO  base.BasePage - India is clicked
+2024-May-07 16:56:28.024 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 16:56:29.557 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 16:56:40.431 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 16:56:42.869 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 16:56:43.841 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:56:44.763 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:56:46.129 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 16:56:47.302 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 16:56:48.269 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 16:56:48.728 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 16:56:50.322 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 16:56:52.129 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 16:56:54.808 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 17:02:28.739 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 17:02:28.874 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 17:02:42.125 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 17:03:05.366 [main] INFO  base.BasePage - India is clicked
+2024-May-07 17:03:06.902 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 17:03:08.472 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 17:03:19.996 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 17:03:22.522 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 17:03:23.540 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 17:03:24.483 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 17:03:26.006 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 17:03:26.982 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 17:03:27.945 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 17:03:28.449 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 17:03:30.284 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 17:03:31.760 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 17:03:57.893 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:01:32.864 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:01:32.998 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:01:46.534 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:02:10.398 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:02:11.874 [main] INFO  base.BasePage - text roy is entered in text box
+2024-May-07 18:02:13.835 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:02:24.514 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:02:26.925 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:02:27.861 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:02:28.767 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:02:30.177 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:02:31.067 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:02:32.078 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:02:32.568 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:02:34.434 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:02:35.917 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:02:39.798 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:02:41.374 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:09:03.068 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:09:03.210 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:09:16.706 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:09:40.668 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:09:42.257 [main] INFO  base.BasePage - text Roy is entered in text box
+2024-May-07 18:09:43.792 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:09:55.013 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:09:57.385 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:09:58.304 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:09:59.224 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:10:01.097 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:10:02.276 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:10:03.191 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:10:03.652 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:10:05.369 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:10:07.138 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:10:11.528 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:10:13.231 [main] INFO  base.BasePage - Enter name here is displayed successfully.
+2024-May-07 18:10:15.074 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:11:40.120 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:11:40.255 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:11:52.056 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:12:15.887 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:12:17.938 [main] INFO  base.BasePage - text Roy is entered in text box
+2024-May-07 18:12:19.563 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:12:30.079 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:12:32.396 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:12:33.279 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:12:34.148 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:12:35.542 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:12:37.008 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:12:37.925 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:12:38.393 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:12:40.024 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:12:41.726 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:12:46.289 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:12:48.798 [main] INFO  base.BasePage - Enter name here is displayed successfully.
+2024-May-07 18:12:50.664 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:14:39.236 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:14:39.364 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:14:51.275 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:15:14.455 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:15:15.984 [main] INFO  base.BasePage - text Roy is entered in text box
+2024-May-07 18:15:17.635 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:15:29.334 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:15:31.748 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:15:32.718 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:15:33.706 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:15:35.159 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:15:36.091 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:15:37.068 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:15:37.552 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:15:39.137 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:15:40.842 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:15:45.388 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:15:47.929 [main] INFO  base.BasePage - Enter name here is displayed successfully.
+2024-May-07 18:15:48.305 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:29:00.798 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:29:00.935 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:29:13.120 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:29:36.526 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:29:38.116 [main] INFO  base.BasePage - text Roy is entered in text box
+2024-May-07 18:29:39.582 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:29:49.520 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:29:52.014 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:29:52.938 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:29:53.998 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:29:55.329 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:29:56.266 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:29:57.192 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:29:57.662 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:29:59.067 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:30:00.965 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:30:05.223 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:30:07.458 [main] INFO  base.BasePage - Enter name here is displayed successfully.
+2024-May-07 18:30:07.643 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:43:45.943 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:43:46.074 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:43:57.699 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:44:21.463 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:44:23.061 [main] INFO  base.BasePage - text Roy is entered in text box
+2024-May-07 18:44:24.609 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:44:34.732 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:44:37.262 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:44:38.224 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:44:39.178 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:44:40.893 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:44:41.801 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:44:42.747 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:44:43.201 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:44:44.743 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:44:46.244 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:44:50.698 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:44:53.033 [main] INFO  base.BasePage - Enter name here is displayed successfully.
+2024-May-07 18:44:53.234 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
+2024-May-07 18:54:01.580 [main] INFO  base.BaseTest - Runnig Before Class
+2024-May-07 18:54:01.718 [main] INFO  base.BaseTest - starting: generalStoreApp
+2024-May-07 18:54:13.578 [main] INFO  base.BasePage - Drop Down is clicked
+2024-May-07 18:54:37.434 [main] INFO  base.BasePage - India is clicked
+2024-May-07 18:54:39.036 [main] INFO  base.BasePage - text Roy is entered in text box
+2024-May-07 18:54:40.751 [main] INFO  base.BasePage - Lets Begin is clicked
+2024-May-07 18:54:50.734 [main] INFO  base.BasePage - ADD TO CART For PG3 is clicked
+2024-May-07 18:54:53.195 [main] INFO  base.BasePage - ADD TO CART For Nike SFB Jungle is clicked
+2024-May-07 18:54:54.451 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:54:55.417 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:54:56.797 [main] INFO  base.BasePage - Cart Icon is clicked
+2024-May-07 18:54:57.737 [main] INFO  base.BasePage - $110.0 is fetched successfully.
+2024-May-07 18:54:58.686 [main] INFO  base.BasePage - $116.97 is fetched successfully.
+2024-May-07 18:54:59.139 [main] INFO  base.BasePage -  - Amount Matched  |   Actual: 226.97 and  Expected: 226.97
+2024-May-07 18:55:01.018 [main] INFO  base.BasePage - Check Box is clicked
+2024-May-07 18:55:02.633 [main] INFO  base.BasePage - Visit to the website to complete purchase is clicked
+2024-May-07 18:55:06.859 [main] INFO  base.BasePage - text General Store is entered in text box
+2024-May-07 18:55:09.135 [main] INFO  base.BasePage - Enter name here is displayed successfully.
+2024-May-07 18:55:09.338 [main] INFO  base.BaseTest - ---------------------------Execution of the Method is Finished--------------------------------------
+ 
+
