@@ -14,3 +14,7 @@ Install [General Store app](General-Store.apk) using adb install "apk_path_locat
 ### 2nd Way
 - Step 1: Open Journey.java in any IDE
 - Step 2: Click on Run below @Test
+
+
+### For Logs:
+  Refer log/prints.log
